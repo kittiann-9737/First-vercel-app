@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>🚀 My First Web App</h1>
-      <p>สร้างมาจากกกddddxxx React + Vercel</p>
+      <p>สร้างมาจากกกddddxxxv React + Vercel</p>
       
       <button onClick={() => alert('Hello World!')}>
         คลิกฉัน
